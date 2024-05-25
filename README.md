@@ -17,4 +17,4 @@
 #
 ### ❄ Snowflake Badge 1 : Data Warehouse Workshop
 
-[DDW](https://scl.io/lvdWVa5)
+  - [DDW](https://scl.io/lvdWVa5)
