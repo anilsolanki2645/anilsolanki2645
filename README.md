@@ -1,5 +1,5 @@
 "My adaptable mind empowers me to learn and excel in various technologies, even when unfamiliar. I firmly believe that with dedication and a growth mindset, anyone can master anything. Learning is a journey, and persistence leads to expertise. Embrace challenges with curiosity, and you'll thrive in the dynamic tech world."
-
+#
 ![Snowflake Badge](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -14,7 +14,7 @@
 ![Colab Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white)
-
+#
 ### Snowflake Badge 1 : Data Warehouse Workshop
 
 [Click here for credential](https://scl.io/lvdWVa5)
