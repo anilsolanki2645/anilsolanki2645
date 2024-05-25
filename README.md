@@ -1,6 +1,7 @@
 "My adaptable mind empowers me to learn and excel in various technologies, even when unfamiliar. I firmly believe that with dedication and a growth mindset, anyone can master anything. Learning is a journey, and persistence leads to expertise. Embrace challenges with curiosity, and you'll thrive in the dynamic tech world."
 
 ![Snowflake Badge](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
