@@ -15,6 +15,6 @@
 ![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC.svg?style=for-the-badge&logo=Wix&logoColor=white)
 #
-### Snowflake Badge 1 : Data Warehouse Workshop
+### ❄ Snowflake Badge 1 : Data Warehouse Workshop
 
-[Click here for credential](https://scl.io/lvdWVa5)
+[DDW](https://scl.io/lvdWVa5)
