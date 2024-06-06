@@ -18,3 +18,7 @@
 ### ❄ Snowflake Badge 1 : Data Warehouse Workshop
 
   - [DDW](https://scl.io/lvdWVa5)
+
+### ❄ Snowflake Badge 2: Collaboration, Marketplace & Cost Estimation Workshop
+
+  - [CMCW](https://scq.io/peAykhC)
