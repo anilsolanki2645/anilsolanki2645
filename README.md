@@ -22,3 +22,7 @@
 ### ❄ Snowflake Badge 2: Collaboration, Marketplace & Cost Estimation Workshop
 
   - [CMCW](https://scq.io/peAykhC)
+
+### ❄ Snowflake Badge 3: Data Application Builders Workshop
+
+  - [DABW](https://scq.io/AFT25RM)
