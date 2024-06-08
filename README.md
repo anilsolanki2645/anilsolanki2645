@@ -26,3 +26,7 @@
 ### ❄ Snowflake Badge 3: Data Application Builders Workshop
 
   - [DABW](https://scq.io/AFT25RM)
+
+### ❄ SnowflakeBadge 4: Data Lake Workshop
+
+  - [DLKW](https://scl.io/No5cw6k)
