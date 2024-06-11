@@ -30,3 +30,7 @@
 ### ❄ SnowflakeBadge 4: Data Lake Workshop
 
   - [DLKW](https://scl.io/No5cw6k)
+
+### ❄ SnowflakeBadge 5: Data Engineering Workshop
+
+  - [DNGW](https://scq.io/NacJ6bR)
